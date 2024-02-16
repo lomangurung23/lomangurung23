@@ -1,0 +1,4 @@
+- 👋 Hi, I’m loman gurung
+- 👀 I’m interested in basketball, football
+- 🌱 I’m currently learning react internship
+- 📫 How to reach me [lomangurung27@gmail.com]
